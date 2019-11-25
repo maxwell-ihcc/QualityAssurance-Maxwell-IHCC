@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\bin\Debug\CarlasPizzaMF.exe.config
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\bin\Debug\CarlasPizzaMF.exe
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\bin\Debug\CarlasPizzaMF.pdb
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\bin\Debug\CarlasPizzaMF.xml
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\obj\Debug\CarlasPizzaMF.vbprojAssemblyReference.cache
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\obj\Debug\CarlasPizzaMF.Form1.resources
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\obj\Debug\CarlasPizzaMF.Resources.resources
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\obj\Debug\CarlasPizzaMF.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\obj\Debug\CarlasPizzaMF.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\obj\Debug\CarlasPizzaMF.exe
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\obj\Debug\CarlasPizzaMF.xml
+C:\Users\Acer\source\repos\CarlasPizzaMF\CarlasPizzaMF\obj\Debug\CarlasPizzaMF.pdb

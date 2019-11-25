@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\winderzepp\winderzepp\bin\Debug\winderzepp.exe.config
+C:\Users\Acer\source\repos\winderzepp\winderzepp\bin\Debug\winderzepp.exe
+C:\Users\Acer\source\repos\winderzepp\winderzepp\bin\Debug\winderzepp.pdb
+C:\Users\Acer\source\repos\winderzepp\winderzepp\bin\Debug\winderzepp.xml
+C:\Users\Acer\source\repos\winderzepp\winderzepp\obj\Debug\winderzepp.vbprojAssemblyReference.cache
+C:\Users\Acer\source\repos\winderzepp\winderzepp\obj\Debug\winderzepp.Form1.resources
+C:\Users\Acer\source\repos\winderzepp\winderzepp\obj\Debug\winderzepp.Resources.resources
+C:\Users\Acer\source\repos\winderzepp\winderzepp\obj\Debug\winderzepp.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\winderzepp\winderzepp\obj\Debug\winderzepp.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\winderzepp\winderzepp\obj\Debug\winderzepp.exe
+C:\Users\Acer\source\repos\winderzepp\winderzepp\obj\Debug\winderzepp.xml
+C:\Users\Acer\source\repos\winderzepp\winderzepp\obj\Debug\winderzepp.pdb

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonLogicClassAssignment", "PythonLogicClassAssignment.pyproj", "{3C1D2DEA-C9AB-4A27-9C3D-861366B8C02C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1D2DEA-C9AB-4A27-9C3D-861366B8C02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1D2DEA-C9AB-4A27-9C3D-861366B8C02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8E6B0E0-77AE-431A-BB2B-F9366E7D7B03}
+	EndGlobalSection
+EndGlobal

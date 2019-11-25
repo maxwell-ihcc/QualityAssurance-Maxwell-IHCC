@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\bin\Debug\PinkElephantMF.exe.config
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\bin\Debug\PinkElephantMF.exe
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\bin\Debug\PinkElephantMF.pdb
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\bin\Debug\PinkElephantMF.xml
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\obj\Debug\PinkElephantMF.vbprojAssemblyReference.cache
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\obj\Debug\PinkElephantMF.PinkElephantMF.resources
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\obj\Debug\PinkElephantMF.Resources.resources
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\obj\Debug\PinkElephantMF.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\obj\Debug\PinkElephantMF.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\obj\Debug\PinkElephantMF.exe
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\obj\Debug\PinkElephantMF.xml
+C:\Users\Acer\source\repos\PinkElephantMF\PinkElephantMF\obj\Debug\PinkElephantMF.pdb

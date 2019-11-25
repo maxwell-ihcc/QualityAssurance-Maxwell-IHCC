@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\bin\Debug\ConCatMF.exe.config
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\bin\Debug\ConCatMF.exe
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\bin\Debug\ConCatMF.pdb
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\bin\Debug\ConCatMF.xml
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\obj\Debug\ConCatMF.vbprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\obj\Debug\ConCatMF.Form1.resources
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\obj\Debug\ConCatMF.Resources.resources
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\obj\Debug\ConCatMF.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\obj\Debug\ConCatMF.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\obj\Debug\ConCatMF.exe
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\obj\Debug\ConCatMF.xml
+C:\Users\Acer\source\repos\ConCatMF\ConCatMF\obj\Debug\ConCatMF.pdb

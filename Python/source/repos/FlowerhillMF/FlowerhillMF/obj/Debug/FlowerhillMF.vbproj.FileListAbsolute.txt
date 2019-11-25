@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\bin\Debug\FlowerhillMF.exe.config
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\bin\Debug\FlowerhillMF.exe
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\bin\Debug\FlowerhillMF.pdb
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\bin\Debug\FlowerhillMF.xml
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\obj\Debug\FlowerhillMF.vbprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\obj\Debug\FlowerhillMF.FlowerHillMF.resources
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\obj\Debug\FlowerhillMF.Resources.resources
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\obj\Debug\FlowerhillMF.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\obj\Debug\FlowerhillMF.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\obj\Debug\FlowerhillMF.exe
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\obj\Debug\FlowerhillMF.xml
+C:\Users\Acer\source\repos\FlowerhillMF\FlowerhillMF\obj\Debug\FlowerhillMF.pdb

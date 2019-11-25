@@ -1,0 +1,13 @@
+C:\Users\mvanvels\Desktop\Student Files\Student Files\Reloaded2015Chap04_d\VbReloaded2015\Chap04\Robot Solution\Robot Project\bin\Debug\Robot Project.exe.config
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\bin\Debug\Robot Project.exe.config
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\bin\Debug\Robot Project.exe
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\bin\Debug\Robot Project.pdb
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\bin\Debug\Robot Project.xml
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\obj\Debug\Robot Project.vbprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\obj\Debug\Robot_Project.MainForm.resources
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\obj\Debug\Robot_Project.Resources.resources
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\obj\Debug\Robot Project.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\obj\Debug\Robot Project.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\obj\Debug\Robot Project.exe
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\obj\Debug\Robot Project.xml
+C:\Users\Acer\source\repos\Robot Solution\Robot Project\obj\Debug\Robot Project.pdb

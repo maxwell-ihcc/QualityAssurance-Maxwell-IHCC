@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\obj\Debug\MFPictureForm.vbprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\obj\Debug\MFPictureForm.Resources.resources
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\obj\Debug\MFPictureForm.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\obj\Debug\MFPictureForm.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\bin\Debug\MFPictureForm.exe.config
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\bin\Debug\MFPictureForm.exe
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\bin\Debug\MFPictureForm.pdb
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\bin\Debug\MFPictureForm.xml
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\obj\Debug\MFPictureForm.exe
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\obj\Debug\MFPictureForm.xml
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\obj\Debug\MFPictureForm.pdb
+C:\Users\Acer\source\repos\MFPictureForm\MFPictureForm\obj\Debug\MFPictureForm.CLForm.resources
